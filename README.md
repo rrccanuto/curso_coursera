@@ -41,3 +41,21 @@ O objetivo é consolidar conceitos fundamentais de **Ciência de Dados** e const
 
    ```bash
    git clone https://github.com/rrccanuto/curso_coursera.git
+2. Acesse a pasta:
+
+cd curso_coursera
+
+
+3. Abra o ambiente Jupyter:
+
+jupyter lab
+
+
+4. Execute o notebook desejado.
+
+🧩 **Sobre o Autor**
+
+👤 Rodrigo Rossi Canuto
+Profissional com sólida experiência na área comercial e em seguros, atualmente em transição estratégica para Ciência de Dados, explorando aplicações analíticas e inteligência de negócio.
+
+📫 Contato: [https://www.linkedin.com/in/rodrigo-canuto-00161425/]
